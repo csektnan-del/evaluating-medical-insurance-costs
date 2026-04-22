@@ -72,17 +72,18 @@ The dataset includes the following features:
 
 ## Dataset Output
 
-Group               Avg Cost       Sample Size
-Women <50 no kids   9551.15        191
-Smokers             28494.77       39
-Non-Smokers         4690.62        152
-Under/Normal BMI    7906.24        36
-Overweight          7024.52        61
-Obese               11820.74       94
-Northeast           7603.96        47
-Northwest           10303.31       46
-Southeast           11569.86       52
-Southwest           8506.50        46
+| Group                 | Avg Cost ($) | Sample Size |
+|----------------------|--------------|-------------|
+| Women <50 no kids    | 9,551        | 191         |
+| **Smokers**          | **28,495**   | 39          |
+| Non-Smokers          | 4,691        | 152         |
+| Under/Normal BMI     | 7,906        | 36          |
+| Overweight           | 7,025        | 61          |
+| **Obese**            | **11,821**   | 94          |
+| Northeast            | 7,604        | 47          |
+| Northwest            | 10,303       | 46          |
+| Southeast            | 11,570       | 52          |
+| Southwest            | 8,507        | 46          |
 
 Key comparisons:
 
