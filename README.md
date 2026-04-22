@@ -110,7 +110,7 @@ Key comparisons:
 
 └── README.md
 
-##_Data Source: 
+_Data Source: 
 This dataset is commonly used for exploratory analysis and is provided as part of the Codecademy Data Analytics career path._
 ---
 
