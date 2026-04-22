@@ -1,6 +1,6 @@
 #import
 import csv
-with open('data/insurance.csv', newline='') as insurance_csv:
+with open('insurance.csv', newline='') as insurance_csv:
     data = insurance_csv.readlines()
 
 #group results by gender/generation/kids
