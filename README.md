@@ -37,10 +37,7 @@ The dataset includes the following features:
 * Grouped individuals into demographic segments
 * In order to further focus anaylsis and control for some variables, centered analysis on the subgroup of women under 50 without children and preformed additional segmentation of this group by
     * Smoking status
-    * BMI category
-    *      underweight/normal -- collapsed to increase sample size
-    *      overweight
-    *      obese
+    * BMI category: underweight/normal (collapsed to increase sample size), overweight, obese
     * Geographic region
 
 ### Analysis
