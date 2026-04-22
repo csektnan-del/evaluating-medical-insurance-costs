@@ -102,11 +102,9 @@ Key comparisons:
 
 ## Project Structure
 
-├── data/
+├── insurance.csv
 
-│   └── insurance.csv
-
-├── analysis.py
+├── medical_insurance_costs_analysis.py
 
 └── README.md
 
